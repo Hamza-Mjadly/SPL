@@ -4,4 +4,4 @@ This repository showcases 'System Programming Languages' course projects focusin
 -   Pointers
 -   Threads
 -   Server-Client communication
-    # Each project demonstrates practical skills and advanced programming concepts.
+    * Each project demonstrates practical skills and advanced programming concepts.
